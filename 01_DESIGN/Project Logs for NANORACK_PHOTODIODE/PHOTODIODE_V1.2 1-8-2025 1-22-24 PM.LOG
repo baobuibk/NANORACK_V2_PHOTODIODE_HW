@@ -1,0 +1,192 @@
+Added Component: Designator=PD1(PS13-6B TO)
+Added Component: Designator=PD2(PS13-6B TO)
+Added Component: Designator=PD3(PS13-6B TO)
+Added Component: Designator=PD4(PS13-6B TO)
+Added Component: Designator=PD5(PS13-6B TO)
+Added Component: Designator=PD6(PS13-6B TO)
+Added Component: Designator=PD7(PS13-6B TO)
+Added Component: Designator=PD8(PS13-6B TO)
+Added Component: Designator=PD9(PS13-6B TO)
+Added Component: Designator=PD10(PS13-6B TO)
+Added Component: Designator=PD11(PS13-6B TO)
+Added Component: Designator=PD12(PS13-6B TO)
+Added Component: Designator=PD13(PS13-6B TO)
+Added Component: Designator=PD14(PS13-6B TO)
+Added Component: Designator=PD15(PS13-6B TO)
+Added Component: Designator=PD16(PS13-6B TO)
+Added Component: Designator=PD17(PS13-6B TO)
+Added Component: Designator=PD18(PS13-6B TO)
+Added Component: Designator=PD19(PS13-6B TO)
+Added Component: Designator=PD20(PS13-6B TO)
+Added Component: Designator=PD21(PS13-6B TO)
+Added Component: Designator=PD22(PS13-6B TO)
+Added Component: Designator=PD23(PS13-6B TO)
+Added Component: Designator=PD24(PS13-6B TO)
+Added Component: Designator=PD25(PS13-6B TO)
+Added Component: Designator=PD26(PS13-6B TO)
+Added Component: Designator=PD27(PS13-6B TO)
+Added Component: Designator=PD28(PS13-6B TO)
+Added Component: Designator=PD29(PS13-6B TO)
+Added Component: Designator=PD30(PS13-6B TO)
+Added Component: Designator=PD31(PS13-6B TO)
+Added Component: Designator=PD32(PS13-6B TO)
+Added Component: Designator=PD33(PS13-6B TO)
+Added Component: Designator=PD34(PS13-6B TO)
+Added Component: Designator=PD35(PS13-6B TO)
+Added Component: Designator=PD36(PS13-6B TO)
+Added Component: Designator=PD37(PS13-6B TO)
+Added Component: Designator=PD38(PS13-6B TO)
+Added Component: Designator=PD39(PS13-6B TO)
+Added Component: Designator=PD40(PS13-6B TO)
+Added Component: Designator=PD41(PS13-6B TO)
+Added Component: Designator=PD42(PS13-6B TO)
+Added Component: Designator=PD43(PS13-6B TO)
+Added Component: Designator=PD44(PS13-6B TO)
+Added Component: Designator=PD45(PS13-6B TO)
+Added Component: Designator=PD46(PS13-6B TO)
+Added Component: Designator=PD47(PS13-6B TO)
+Added Component: Designator=PD48(PS13-6B TO)
+Added Pin To Net: NetName=GND Pin=PD1-1
+Added Pin To Net: NetName=NetPD1_2 Pin=PD1-2
+Added Pin To Net: NetName=GND Pin=PD2-1
+Added Pin To Net: NetName=NetPD2_2 Pin=PD2-2
+Added Pin To Net: NetName=GND Pin=PD3-1
+Added Pin To Net: NetName=NetPD3_2 Pin=PD3-2
+Added Pin To Net: NetName=GND Pin=PD4-1
+Added Pin To Net: NetName=NetPD4_2 Pin=PD4-2
+Added Pin To Net: NetName=GND Pin=PD5-1
+Added Pin To Net: NetName=NetPD5_2 Pin=PD5-2
+Added Pin To Net: NetName=GND Pin=PD6-1
+Added Pin To Net: NetName=NetPD6_2 Pin=PD6-2
+Added Pin To Net: NetName=GND Pin=PD7-1
+Added Pin To Net: NetName=NetPD7_2 Pin=PD7-2
+Added Pin To Net: NetName=GND Pin=PD8-1
+Added Pin To Net: NetName=NetPD8_2 Pin=PD8-2
+Added Pin To Net: NetName=GND Pin=PD9-1
+Added Pin To Net: NetName=NetPD9_2 Pin=PD9-2
+Added Pin To Net: NetName=GND Pin=PD10-1
+Added Pin To Net: NetName=NetPD10_2 Pin=PD10-2
+Added Pin To Net: NetName=GND Pin=PD11-1
+Added Pin To Net: NetName=NetPD11_2 Pin=PD11-2
+Added Pin To Net: NetName=GND Pin=PD12-1
+Added Pin To Net: NetName=NetPD12_2 Pin=PD12-2
+Added Pin To Net: NetName=GND Pin=PD13-1
+Added Pin To Net: NetName=NetPD13_2 Pin=PD13-2
+Added Pin To Net: NetName=GND Pin=PD14-1
+Added Pin To Net: NetName=NetPD14_2 Pin=PD14-2
+Added Pin To Net: NetName=GND Pin=PD15-1
+Added Pin To Net: NetName=NetPD15_2 Pin=PD15-2
+Added Pin To Net: NetName=GND Pin=PD16-1
+Added Pin To Net: NetName=NetPD16_2 Pin=PD16-2
+Added Pin To Net: NetName=GND Pin=PD17-1
+Added Pin To Net: NetName=NetPD17_2 Pin=PD17-2
+Added Pin To Net: NetName=GND Pin=PD18-1
+Added Pin To Net: NetName=NetPD18_2 Pin=PD18-2
+Added Pin To Net: NetName=GND Pin=PD19-1
+Added Pin To Net: NetName=NetPD19_2 Pin=PD19-2
+Added Pin To Net: NetName=GND Pin=PD20-1
+Added Pin To Net: NetName=NetPD20_2 Pin=PD20-2
+Added Pin To Net: NetName=GND Pin=PD21-1
+Added Pin To Net: NetName=NetPD21_2 Pin=PD21-2
+Added Pin To Net: NetName=GND Pin=PD22-1
+Added Pin To Net: NetName=NetPD22_2 Pin=PD22-2
+Added Pin To Net: NetName=GND Pin=PD23-1
+Added Pin To Net: NetName=NetPD23_2 Pin=PD23-2
+Added Pin To Net: NetName=GND Pin=PD24-1
+Added Pin To Net: NetName=NetPD24_2 Pin=PD24-2
+Added Pin To Net: NetName=GND Pin=PD25-1
+Added Pin To Net: NetName=NetPD25_2 Pin=PD25-2
+Added Pin To Net: NetName=GND Pin=PD26-1
+Added Pin To Net: NetName=NetPD26_2 Pin=PD26-2
+Added Pin To Net: NetName=GND Pin=PD27-1
+Added Pin To Net: NetName=NetPD27_2 Pin=PD27-2
+Added Pin To Net: NetName=GND Pin=PD28-1
+Added Pin To Net: NetName=NetPD28_2 Pin=PD28-2
+Added Pin To Net: NetName=GND Pin=PD29-1
+Added Pin To Net: NetName=NetPD29_2 Pin=PD29-2
+Added Pin To Net: NetName=GND Pin=PD30-1
+Added Pin To Net: NetName=NetPD30_2 Pin=PD30-2
+Added Pin To Net: NetName=GND Pin=PD31-1
+Added Pin To Net: NetName=NetPD31_2 Pin=PD31-2
+Added Pin To Net: NetName=GND Pin=PD32-1
+Added Pin To Net: NetName=NetPD32_2 Pin=PD32-2
+Added Pin To Net: NetName=GND Pin=PD33-1
+Added Pin To Net: NetName=NetPD33_2 Pin=PD33-2
+Added Pin To Net: NetName=GND Pin=PD34-1
+Added Pin To Net: NetName=NetPD34_2 Pin=PD34-2
+Added Pin To Net: NetName=GND Pin=PD35-1
+Added Pin To Net: NetName=NetPD35_2 Pin=PD35-2
+Added Pin To Net: NetName=GND Pin=PD36-1
+Added Pin To Net: NetName=NetPD36_2 Pin=PD36-2
+Added Pin To Net: NetName=GND Pin=PD37-1
+Added Pin To Net: NetName=NetPD37_2 Pin=PD37-2
+Added Pin To Net: NetName=GND Pin=PD38-1
+Added Pin To Net: NetName=NetPD38_2 Pin=PD38-2
+Added Pin To Net: NetName=GND Pin=PD39-1
+Added Pin To Net: NetName=NetPD39_2 Pin=PD39-2
+Added Pin To Net: NetName=GND Pin=PD40-1
+Added Pin To Net: NetName=NetPD40_2 Pin=PD40-2
+Added Pin To Net: NetName=GND Pin=PD41-1
+Added Pin To Net: NetName=NetPD41_2 Pin=PD41-2
+Added Pin To Net: NetName=GND Pin=PD42-1
+Added Pin To Net: NetName=NetPD42_2 Pin=PD42-2
+Added Pin To Net: NetName=GND Pin=PD43-1
+Added Pin To Net: NetName=NetPD43_2 Pin=PD43-2
+Added Pin To Net: NetName=GND Pin=PD44-1
+Added Pin To Net: NetName=NetPD44_2 Pin=PD44-2
+Added Pin To Net: NetName=GND Pin=PD45-1
+Added Pin To Net: NetName=NetPD45_2 Pin=PD45-2
+Added Pin To Net: NetName=GND Pin=PD46-1
+Added Pin To Net: NetName=NetPD46_2 Pin=PD46-2
+Added Pin To Net: NetName=GND Pin=PD47-1
+Added Pin To Net: NetName=NetPD47_2 Pin=PD47-2
+Added Pin To Net: NetName=GND Pin=PD48-1
+Added Pin To Net: NetName=NetPD48_2 Pin=PD48-2
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD1 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD2 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD3 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD4 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD5 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD6 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD7 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD8 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD9 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD10 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD11 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD12 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD13 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD14 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD15 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD16 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD17 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD18 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD19 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD20 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD21 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD22 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD23 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD24 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD25 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD26 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD27 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD28 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD29 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD30 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD31 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD32 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD33 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD34 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD35 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD36 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD37 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD38 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD39 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD40 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD41 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD42 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD43 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD44 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD45 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD46 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD47 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD48 Photodiode

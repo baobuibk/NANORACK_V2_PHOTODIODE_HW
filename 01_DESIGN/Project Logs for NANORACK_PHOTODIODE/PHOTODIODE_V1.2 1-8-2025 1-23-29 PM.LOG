@@ -1,0 +1,96 @@
+Change Component Designator: OldDesignator= NewDesignator=PD1
+Change Component Designator: OldDesignator= NewDesignator=PD2
+Change Component Designator: OldDesignator= NewDesignator=PD3
+Change Component Designator: OldDesignator= NewDesignator=PD4
+Change Component Designator: OldDesignator= NewDesignator=PD5
+Change Component Designator: OldDesignator= NewDesignator=PD6
+Change Component Designator: OldDesignator= NewDesignator=PD7
+Change Component Designator: OldDesignator= NewDesignator=PD8
+Change Component Designator: OldDesignator= NewDesignator=PD9
+Change Component Designator: OldDesignator= NewDesignator=PD10
+Change Component Designator: OldDesignator= NewDesignator=PD11
+Change Component Designator: OldDesignator= NewDesignator=PD12
+Change Component Designator: OldDesignator= NewDesignator=PD13
+Change Component Designator: OldDesignator= NewDesignator=PD14
+Change Component Designator: OldDesignator= NewDesignator=PD15
+Change Component Designator: OldDesignator= NewDesignator=PD16
+Change Component Designator: OldDesignator= NewDesignator=PD17
+Change Component Designator: OldDesignator= NewDesignator=PD18
+Change Component Designator: OldDesignator= NewDesignator=PD19
+Change Component Designator: OldDesignator= NewDesignator=PD20
+Change Component Designator: OldDesignator= NewDesignator=PD21
+Change Component Designator: OldDesignator= NewDesignator=PD22
+Change Component Designator: OldDesignator= NewDesignator=PD23
+Change Component Designator: OldDesignator= NewDesignator=PD24
+Change Component Designator: OldDesignator= NewDesignator=PD25
+Change Component Designator: OldDesignator= NewDesignator=PD26
+Change Component Designator: OldDesignator= NewDesignator=PD27
+Change Component Designator: OldDesignator= NewDesignator=PD28
+Change Component Designator: OldDesignator= NewDesignator=PD29
+Change Component Designator: OldDesignator= NewDesignator=PD30
+Change Component Designator: OldDesignator= NewDesignator=PD31
+Change Component Designator: OldDesignator= NewDesignator=PD32
+Change Component Designator: OldDesignator= NewDesignator=PD33
+Change Component Designator: OldDesignator= NewDesignator=PD34
+Change Component Designator: OldDesignator= NewDesignator=PD35
+Change Component Designator: OldDesignator= NewDesignator=PD36
+Change Component Designator: OldDesignator= NewDesignator=PD37
+Change Component Designator: OldDesignator= NewDesignator=PD38
+Change Component Designator: OldDesignator= NewDesignator=PD39
+Change Component Designator: OldDesignator= NewDesignator=PD40
+Change Component Designator: OldDesignator= NewDesignator=PD41
+Change Component Designator: OldDesignator= NewDesignator=PD42
+Change Component Designator: OldDesignator= NewDesignator=PD43
+Change Component Designator: OldDesignator= NewDesignator=PD44
+Change Component Designator: OldDesignator= NewDesignator=PD45
+Change Component Designator: OldDesignator= NewDesignator=PD46
+Change Component Designator: OldDesignator= NewDesignator=PD47
+Change Component Designator: OldDesignator= NewDesignator=PD48
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD1 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD2 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD3 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD4 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD5 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD6 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD7 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD8 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD9 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD10 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD11 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD12 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD13 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD14 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD15 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD16 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD17 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD18 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD19 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD20 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD21 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD22 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD23 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD24 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD25 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD26 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD27 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD28 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD29 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD30 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD31 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD32 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD33 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD34 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD35 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD36 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD37 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD38 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD39 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD40 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD41 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD42 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD43 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD44 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD45 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD46 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD47 Photodiode
+Added Member To Class: ClassName=PHOTODIODE Member=Component PD48 Photodiode
