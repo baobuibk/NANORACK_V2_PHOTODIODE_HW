@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=S NewDesignator=H3
+Added Pin To Net: NetName=GND Pin=U1-HTAB
+Added Pin To Net: NetName=GND Pin=U2-HTAB
+Added Pin To Net: NetName=GND Pin=U5-HTAB
+Added Pin To Net: NetName=GND Pin=U6-HTAB
+Added Pin To Net: NetName=GND Pin=U7-HTAB
+Added Pin To Net: NetName=GND Pin=U8-HTAB

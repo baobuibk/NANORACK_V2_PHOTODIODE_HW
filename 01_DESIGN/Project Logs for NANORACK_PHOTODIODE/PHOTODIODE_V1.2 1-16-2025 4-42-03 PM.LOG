@@ -1,0 +1,21 @@
+Change Footprint: Cannot match pads with new footprint in component :U1 Footprint:ADG1414BCPZ
+Change Footprint: Cannot match pads with new footprint in component :U2 Footprint:ADG1414BCPZ
+Change Footprint: Cannot match pads with new footprint in component :U5 Footprint:ADG1414BCPZ
+Change Footprint: Cannot match pads with new footprint in component :U6 Footprint:ADG1414BCPZ
+Change Footprint: Cannot match pads with new footprint in component :U7 Footprint:ADG1414BCPZ
+Change Footprint: Cannot match pads with new footprint in component :U8 Footprint:ADG1414BCPZ
+Change Component Designator: OldDesignator=13 NewDesignator=H1
+Change Component Designator: OldDesignator=13 NewDesignator=H2
+Change Component Designator: OldDesignator=13 NewDesignator=H3
+Change Component Designator: OldDesignator=13 NewDesignator=H4
+Change Component Designator: OldDesignator=13 NewDesignator=H5
+Change Component Designator: OldDesignator=13 NewDesignator=H6
+Change Component Designator: OldDesignator=13 NewDesignator=H7
+Change Component Designator: OldDesignator=13 NewDesignator=H8
+Added Member To Class: ClassName=COMMUNICATION Member=Component H2 HOLD
+Added Member To Class: ClassName=COMMUNICATION Member=Component H3 HOLD
+Added Member To Class: ClassName=COMMUNICATION Member=Component H4 HOLD
+Added Member To Class: ClassName=COMMUNICATION Member=Component H5 HOLD
+Added Member To Class: ClassName=COMMUNICATION Member=Component H6 HOLD
+Added Member To Class: ClassName=COMMUNICATION Member=Component H7 HOLD
+Added Member To Class: ClassName=COMMUNICATION Member=Component H8 HOLD

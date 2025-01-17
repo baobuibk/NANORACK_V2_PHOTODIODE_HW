@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MOSI_PD Pin=D2-1
+Removed Pin From Net: NetName=SCK_PD Pin=D2-3
+Added Pin To Net: NetName=SCK_PD Pin=D2-1
+Added Pin To Net: NetName=MOSI_PD Pin=D2-3

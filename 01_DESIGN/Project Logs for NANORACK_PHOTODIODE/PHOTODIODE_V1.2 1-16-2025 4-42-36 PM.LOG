@@ -1,0 +1,132 @@
+Added Component: Designator=U1(ADG1414BCPZ)
+Added Component: Designator=U2(ADG1414BCPZ)
+Added Component: Designator=U5(ADG1414BCPZ)
+Added Component: Designator=U6(ADG1414BCPZ)
+Added Component: Designator=U7(ADG1414BCPZ)
+Added Component: Designator=U8(ADG1414BCPZ)
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=NetPD1_2 Pin=U1-2
+Added Pin To Net: NetName=PHOTODIODE Pin=U1-3
+Added Pin To Net: NetName=NetPD2_2 Pin=U1-4
+Added Pin To Net: NetName=PHOTODIODE Pin=U1-5
+Added Pin To Net: NetName=NetPD3_2 Pin=U1-6
+Added Pin To Net: NetName=PHOTODIODE Pin=U1-7
+Added Pin To Net: NetName=NetPD4_2 Pin=U1-8
+Added Pin To Net: NetName=PHOTODIODE Pin=U1-9
+Added Pin To Net: NetName=PHOTODIODE Pin=U1-10
+Added Pin To Net: NetName=NetPD5_2 Pin=U1-11
+Added Pin To Net: NetName=PHOTODIODE Pin=U1-12
+Added Pin To Net: NetName=NetPD6_2 Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=SDO_1 Pin=U1-19
+Added Pin To Net: NetName=NetR3_1 Pin=U1-20
+Added Pin To Net: NetName=SW_CS Pin=U1-21
+Added Pin To Net: NetName=SCK_PD Pin=U1-22
+Added Pin To Net: NetName=12V_EXP Pin=U1-23
+Added Pin To Net: NetName=MOSI_PD Pin=U1-24
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=NetPD7_2 Pin=U2-2
+Added Pin To Net: NetName=PHOTODIODE Pin=U2-3
+Added Pin To Net: NetName=NetPD8_2 Pin=U2-4
+Added Pin To Net: NetName=PHOTODIODE Pin=U2-5
+Added Pin To Net: NetName=NetPD9_2 Pin=U2-6
+Added Pin To Net: NetName=PHOTODIODE Pin=U2-7
+Added Pin To Net: NetName=NetPD10_2 Pin=U2-8
+Added Pin To Net: NetName=PHOTODIODE Pin=U2-9
+Added Pin To Net: NetName=PHOTODIODE Pin=U2-10
+Added Pin To Net: NetName=NetPD11_2 Pin=U2-11
+Added Pin To Net: NetName=PHOTODIODE Pin=U2-12
+Added Pin To Net: NetName=NetPD12_2 Pin=U2-13
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=SDO_2 Pin=U2-19
+Added Pin To Net: NetName=NetR5_1 Pin=U2-20
+Added Pin To Net: NetName=SW_CS Pin=U2-21
+Added Pin To Net: NetName=SCK_PD Pin=U2-22
+Added Pin To Net: NetName=12V_EXP Pin=U2-23
+Added Pin To Net: NetName=SDO_1 Pin=U2-24
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=NetPD13_2 Pin=U5-2
+Added Pin To Net: NetName=PHOTODIODE Pin=U5-3
+Added Pin To Net: NetName=NetPD14_2 Pin=U5-4
+Added Pin To Net: NetName=PHOTODIODE Pin=U5-5
+Added Pin To Net: NetName=NetPD15_2 Pin=U5-6
+Added Pin To Net: NetName=PHOTODIODE Pin=U5-7
+Added Pin To Net: NetName=NetPD16_2 Pin=U5-8
+Added Pin To Net: NetName=PHOTODIODE Pin=U5-9
+Added Pin To Net: NetName=PHOTODIODE Pin=U5-10
+Added Pin To Net: NetName=NetPD17_2 Pin=U5-11
+Added Pin To Net: NetName=PHOTODIODE Pin=U5-12
+Added Pin To Net: NetName=NetPD18_2 Pin=U5-13
+Added Pin To Net: NetName=GND Pin=U5-18
+Added Pin To Net: NetName=SDO_3 Pin=U5-19
+Added Pin To Net: NetName=NetR8_1 Pin=U5-20
+Added Pin To Net: NetName=SW_CS Pin=U5-21
+Added Pin To Net: NetName=SCK_PD Pin=U5-22
+Added Pin To Net: NetName=12V_EXP Pin=U5-23
+Added Pin To Net: NetName=SDO_2 Pin=U5-24
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=NetPD19_2 Pin=U6-2
+Added Pin To Net: NetName=PHOTODIODE Pin=U6-3
+Added Pin To Net: NetName=NetPD20_2 Pin=U6-4
+Added Pin To Net: NetName=PHOTODIODE Pin=U6-5
+Added Pin To Net: NetName=NetPD21_2 Pin=U6-6
+Added Pin To Net: NetName=PHOTODIODE Pin=U6-7
+Added Pin To Net: NetName=NetPD22_2 Pin=U6-8
+Added Pin To Net: NetName=PHOTODIODE Pin=U6-9
+Added Pin To Net: NetName=PHOTODIODE Pin=U6-10
+Added Pin To Net: NetName=NetPD23_2 Pin=U6-11
+Added Pin To Net: NetName=PHOTODIODE Pin=U6-12
+Added Pin To Net: NetName=NetPD24_2 Pin=U6-13
+Added Pin To Net: NetName=GND Pin=U6-18
+Added Pin To Net: NetName=SDO_4 Pin=U6-19
+Added Pin To Net: NetName=NetR16_1 Pin=U6-20
+Added Pin To Net: NetName=SW_CS Pin=U6-21
+Added Pin To Net: NetName=SCK_PD Pin=U6-22
+Added Pin To Net: NetName=12V_EXP Pin=U6-23
+Added Pin To Net: NetName=SDO_3 Pin=U6-24
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=NetPD25_2 Pin=U7-2
+Added Pin To Net: NetName=PHOTODIODE Pin=U7-3
+Added Pin To Net: NetName=NetPD26_2 Pin=U7-4
+Added Pin To Net: NetName=PHOTODIODE Pin=U7-5
+Added Pin To Net: NetName=NetPD27_2 Pin=U7-6
+Added Pin To Net: NetName=PHOTODIODE Pin=U7-7
+Added Pin To Net: NetName=NetPD28_2 Pin=U7-8
+Added Pin To Net: NetName=PHOTODIODE Pin=U7-9
+Added Pin To Net: NetName=PHOTODIODE Pin=U7-10
+Added Pin To Net: NetName=NetPD29_2 Pin=U7-11
+Added Pin To Net: NetName=PHOTODIODE Pin=U7-12
+Added Pin To Net: NetName=NetPD30_2 Pin=U7-13
+Added Pin To Net: NetName=GND Pin=U7-18
+Added Pin To Net: NetName=SDO_5 Pin=U7-19
+Added Pin To Net: NetName=NetR18_1 Pin=U7-20
+Added Pin To Net: NetName=SW_CS Pin=U7-21
+Added Pin To Net: NetName=SCK_PD Pin=U7-22
+Added Pin To Net: NetName=12V_EXP Pin=U7-23
+Added Pin To Net: NetName=SDO_4 Pin=U7-24
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=NetPD31_2 Pin=U8-2
+Added Pin To Net: NetName=PHOTODIODE Pin=U8-3
+Added Pin To Net: NetName=NetPD32_2 Pin=U8-4
+Added Pin To Net: NetName=PHOTODIODE Pin=U8-5
+Added Pin To Net: NetName=NetPD33_2 Pin=U8-6
+Added Pin To Net: NetName=PHOTODIODE Pin=U8-7
+Added Pin To Net: NetName=NetPD34_2 Pin=U8-8
+Added Pin To Net: NetName=PHOTODIODE Pin=U8-9
+Added Pin To Net: NetName=PHOTODIODE Pin=U8-10
+Added Pin To Net: NetName=NetPD35_2 Pin=U8-11
+Added Pin To Net: NetName=PHOTODIODE Pin=U8-12
+Added Pin To Net: NetName=NetPD36_2 Pin=U8-13
+Added Pin To Net: NetName=GND Pin=U8-18
+Added Pin To Net: NetName=NetR19_1 Pin=U8-20
+Added Pin To Net: NetName=SW_CS Pin=U8-21
+Added Pin To Net: NetName=SCK_PD Pin=U8-22
+Added Pin To Net: NetName=12V_EXP Pin=U8-23
+Added Pin To Net: NetName=SDO_5 Pin=U8-24
+Added Member To Class: ClassName=COMMUNICATION Member=Component H1 HOLD
+Added Member To Class: ClassName=PHOTODIODE Member=Component U1 ADG1414BCPZ
+Added Member To Class: ClassName=PHOTODIODE Member=Component U2 ADG1414BCPZ
+Added Member To Class: ClassName=PHOTODIODE Member=Component U5 ADG1414BCPZ
+Added Member To Class: ClassName=PHOTODIODE Member=Component U6 ADG1414BCPZ
+Added Member To Class: ClassName=PHOTODIODE Member=Component U7 ADG1414BCPZ
+Added Member To Class: ClassName=PHOTODIODE Member=Component U8 ADG1414BCPZ

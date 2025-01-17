@@ -1,0 +1,11 @@
+Added Component: Designator=H3(M3)
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Pin To Net: NetName=SHIELD Pin=H3-1
+Added Member To Class: ClassName=COMMUNICATION Member=Component H3 HOLD

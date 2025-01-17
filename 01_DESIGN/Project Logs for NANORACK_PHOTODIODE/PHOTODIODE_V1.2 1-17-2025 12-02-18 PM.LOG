@@ -1,0 +1,4 @@
+Added Component: Designator=JP1(Jump2)
+Added Pin To Net: NetName=12V_EXP Pin=JP1-1
+Added Pin To Net: NetName=+5 Pin=JP1-2
+Added Member To Class: ClassName=POWER SWITCH AND LDO Member=Component JP1 JUMP2

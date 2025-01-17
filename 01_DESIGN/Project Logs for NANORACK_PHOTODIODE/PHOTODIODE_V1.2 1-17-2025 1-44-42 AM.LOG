@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MOSI_PD Pin=U1-24
+Removed Pin From Net: NetName=MOSI_PD Pin=U10-12
+Removed Pin From Net: NetName=MISO_PD Pin=U10-13
+Added Pin To Net: NetName=MISO_PD Pin=U1-24
+Added Pin To Net: NetName=MISO_PD Pin=U10-12
+Added Pin To Net: NetName=MOSI_PD Pin=U10-13
+Change Net Name : Old Net Name=MISO_PD New Net Name=MOSI_PD
+Change Net Name : Old Net Name=MOSI_PD New Net Name=MISO_PD
