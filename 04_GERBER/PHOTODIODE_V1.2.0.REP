@@ -2,180 +2,16 @@
 FileName = PHOTODIODE_V1.2.0.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mid-Layer 2
-      File : PHOTODIODE_V1.2.0_Copper_Signal_2.gbr
+Generating : Bottom Overlay
+      File : PHOTODIODE_V1.2.0_Legend_Bot.gbr
 
-    Adding Layer      : Mid-Layer 2
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
+    D13
+    D18
     D20
-    D41
-    D65
-    D66
-    D67
-    D69
-    D70
-    D71
-    D72
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : PHOTODIODE_V1.2.0_Pads_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D66
-    D67
-    D68
-    D69
-    D73
-    D74
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : PHOTODIODE_V1.2.0_Paste_Bot.gbr
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D73
-    D74
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : PHOTODIODE_V1.2.0_Pads_Top.gbr
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D66
-    D67
-    D68
-    D69
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : PHOTODIODE_V1.2.0_Paste_Top.gbr
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PHOTODIODE_V1.2.0_Copper_Signal_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D41
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : PHOTODIODE_V1.2.0_Keep-out.gbr
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Mid-Layer 1
-      File : PHOTODIODE_V1.2.0_Copper_Signal_1.gbr
-
-    Adding Layer      : Mid-Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D41
-    D66
-    D67
-    D69
-    D70
-    D71
-    D72
 *************************************************************
 
 *************************************************************
@@ -209,7 +45,97 @@ Used DCodes :
     D38
     D39
     D40
-    D41
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PHOTODIODE_V1.2.0_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D64
+    D65
+    D66
+    D67
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PHOTODIODE_V1.2.0_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PHOTODIODE_V1.2.0_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PHOTODIODE_V1.2.0_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D40
+    D63
+    D64
     D65
     D66
     D67
@@ -243,16 +169,92 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : PHOTODIODE_V1.2.0_Legend_Bot.gbr
+Generating : Top Pad Master
+      File : PHOTODIODE_V1.2.0_Pads_Top.gbr
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D18
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D62
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 1
+      File : PHOTODIODE_V1.2.0_Copper_Signal_1.gbr
+
+    Adding Layer      : Mid-Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D64
+    D65
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PHOTODIODE_V1.2.0_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
     D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PHOTODIODE_V1.2.0_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D57
+    D58
+    D59
+    D60
+    D61
+    D71
+    D72
+    D73
+    D74
 *************************************************************
 
 *************************************************************
@@ -267,9 +269,9 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D22
-    D26
-    D39
+    D25
+    D28
+    D40
     D41
     D42
     D43
@@ -291,31 +293,27 @@ Used DCodes :
     D59
     D60
     D61
-    D62
-    D63
-    D64
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : PHOTODIODE_V1.2.0_Soldermask_Bot.gbr
+Generating : Mid-Layer 2
+      File : PHOTODIODE_V1.2.0_Copper_Signal_2.gbr
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Mid-Layer 2
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D41
-    D60
-    D61
-    D62
+    D20
+    D40
     D63
     D64
-    D73
-    D74
+    D65
+    D67
+    D68
+    D69
+    D70
 *************************************************************
 
 *************************************************************
